@@ -29,12 +29,10 @@
 		color: green;
 	}
 
-<<<<<<< HEAD
 /* SizeBar Gauche */
 
 	div#connexion {
  		float:right;
- 		padding: 204px 100px;
  		background-color:#333;
  		display: block;
 		color: white;
@@ -45,34 +43,9 @@
  	}
  	input#valider {
 
- 		text-align: center; ;
+ 		text-align: center;
  		background-color:#333;
  		display: block;
 		color: white;
  	}
 
-=======
-/* Banniere */
-
-	#banniere h2 {
-			color: #111;
-		}
-
-	#banniere {
-		position: relative;
-		background-color: rgba(21, 28, 23, 0.85);
-		background-image: url("images/banniere.jpg");
-		background-position: top left, center center;
-		background-size: auto, 100% 250%;
-		background-repeat: repeat, no-repeat;
-		text-align: center;
-		margin: 0;
-	}
-
-	#banniere-wrapper {
-		position: relative;
-		background-position: top left, top left, center center;
-		background-repeat: repeat, repeat, no-repeat;
-		background-size: auto, auto, cover;
-		z-index: 1;
->>>>>>> c44d666ba144fe89bc2a8b32339569b1b6f55e97

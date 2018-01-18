@@ -30,3 +30,23 @@
 	}
 
 /* SizeBar Gauche */
+
+	div#connexion {
+ 		float:right;
+ 		padding: 204px 100px;
+ 		background-color:#333;
+ 		display: block;
+		color: white;
+		text-align: left;
+		padding: 14px 16px;
+		text-decoration: none;
+
+ 	}
+ 	input#valider {
+
+ 		text-align: center; ;
+ 		background-color:#333;
+ 		display: block;
+		color: white;
+ 	}
+

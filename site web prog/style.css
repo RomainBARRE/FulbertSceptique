@@ -22,3 +22,11 @@
 	li a:hover {
 	    background-color: #111;
 	}
+
+/* Titre */
+
+	h1 {
+		color: green;
+	}
+
+/* SizeBar Gauche */

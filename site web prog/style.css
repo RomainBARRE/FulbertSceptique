@@ -29,4 +29,26 @@
 		color: green;
 	}
 
-/* SizeBar Gauche */
+/* Banniere */
+
+	#banniere h2 {
+			color: #111;
+		}
+
+	#banniere {
+		position: relative;
+		background-color: rgba(21, 28, 23, 0.85);
+		background-image: url("images/banniere.jpg");
+		background-position: top left, center center;
+		background-size: auto, 100% 250%;
+		background-repeat: repeat, no-repeat;
+		text-align: center;
+		margin: 0;
+	}
+
+	#banniere-wrapper {
+		position: relative;
+		background-position: top left, top left, center center;
+		background-repeat: repeat, repeat, no-repeat;
+		background-size: auto, auto, cover;
+		z-index: 1;

@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 /* Menu */
 	ul {
 	    list-style-type: none;
@@ -25,11 +27,12 @@
 
 /* Titre */
 
-	h1 {
+	h2 {
 		color: green;
+		font-size: 40px;
 	}
 
-/* SizeBar Gauche */
+/* Carré de connexion Gauche */
 
 	div#connexion {
  		float:right;
@@ -49,3 +52,21 @@
 		color: white;
  	}
 
+/* Banniere */
+	
+	
+     
+	a {
+	    text-decoration: none;
+	    color: #6E052E;
+	}
+	 
+	#barre {
+	    width: 100%;
+	    background-color:#333;
+	    background-image: url(images/banniere);
+	    padding:8px 0;
+	    font-family:  "Trebuchet MS";
+	    text-align: center;
+	    font-size:11px;
+	    margin-top:-50px;

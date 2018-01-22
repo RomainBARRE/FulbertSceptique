@@ -1,10 +1,14 @@
 @charset "UTF-8";
 
 /* General */
-body
-{
-    background-color: #333;
-}
+	body {
+    	background-color: #333;
+		width:98%;
+	}
+
+	head {
+		width:98%;
+	}
 
 /* Menu */
 	ul {
@@ -17,6 +21,8 @@ body
 
 	li {
 	    float: left;
+		font-weight: bold;
+		color: #01DF01;
 	}
 
 	li a {
@@ -67,7 +73,6 @@ body
 
  	}
  	input#valider {
-
  		text-align: center;
  		background-color:#333;
  		display: block;
@@ -76,15 +81,13 @@ body
 
 /* Banniere */
 	
-	
-     
 	a {
 	    text-decoration: none;
 	    color: #6E052E;
 	}
 	 
 	#barre {
-	    width: 90%;
+	    width: 100%;
 	    background-color:#333;
 	    background-image: url(images/banniere);
 	    padding:8px 0;
@@ -92,9 +95,3 @@ body
 	    text-align: center;
 	    font-size:11px;
 	    margin-top:-50px;
-
-/* Contact */
-	
-	.imageCentre {
-		text-align:center
-	}

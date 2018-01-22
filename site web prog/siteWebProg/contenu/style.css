@@ -4,10 +4,16 @@
 	body {
     	background-color: #333;
 		width:98%;
+		margin:auto;
+		min-width:600px;
+		max-width:2000px;
 	}
 
 	head {
 		width:98%;
+		margin:auto;
+		min-width:600px;
+		max-width:2000px;
 	}
 
 /* Menu */
@@ -38,15 +44,19 @@
 	}
 
 /* Titre */
+	
+	h1 {
+		color: #01DF01;
+		text-align: left;
+	}
 
 	h2 {
 		color: #01DF01;
 		font-size: 40px;
 	}
 
-	h1 {
+	h3 {
 		color: #01DF01;
-		text-align: left;
 	}
 
 	h5 {

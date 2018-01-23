@@ -3,17 +3,21 @@
 /* General */
 	body {
     	background-color: #333;
-		width:98%;
+		width:100%;
 		margin:auto;
 		min-width:600px;
 		max-width:2000px;
 	}
 
 	head {
-		width:98%;
+		width:100%;
 		margin:auto;
 		min-width:600px;
 		max-width:2000px;
+	}
+	
+	img {
+		
 	}
 
 /* Menu */
@@ -47,7 +51,6 @@
 	
 	h1 {
 		color: #01DF01;
-		text-align: left;
 	}
 
 	h2 {

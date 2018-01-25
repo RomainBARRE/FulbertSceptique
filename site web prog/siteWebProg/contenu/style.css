@@ -91,13 +91,14 @@
  		background-color:#333;
  		display: block;
 		color: white;
+		width: 100%;
  	}
+
 
 /* Banniere */
 	
 	a {
 	    text-decoration: none;
-	    color: #6E052E;
 	}
 	 
 	#barre {
@@ -109,7 +110,14 @@
 	    text-align: center;
 	    font-size:11px;
 	    margin-top:-50px;
+<<<<<<< HEAD
 	}
 
 /* Diapo */
 
+=======
+
+	}
+
+/* Bouton */
+>>>>>>> bc76b4637d34cb2e3c64e3a75fd9b425bf85df5c

@@ -19,6 +19,7 @@
 			<footer>
 				<?php
 					include('vue/basPageInd.html');
+					include('modele/conexionBD.php');
 				?>
 			</footer>
 		</body>

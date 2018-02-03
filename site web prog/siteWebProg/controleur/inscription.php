@@ -12,8 +12,7 @@
 					include('vue/menu.html');
 				?>
 			</header>
-				<?php 
-				?>
+
 			<footer>
 				<?php
 					include('../vue/basPage.html');

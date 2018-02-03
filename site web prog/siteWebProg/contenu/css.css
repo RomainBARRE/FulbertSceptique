@@ -53,6 +53,7 @@
 	
 	h1 {
 		color: #01DF01;
+		text-align: center;
 	}
 
 	h2 {
@@ -92,12 +93,19 @@
 
 /* Carré de connexion Gauche */
 
-	div#connexion {
+	li#connexion {
  		float:right;
  		background-color:#333;
 		text-align:right;
 
  	}
+ 	li#connexion1 {
+ 		float:right;
+ 		background-color:#333;
+		text-align:right;
+
+ 	}
+
  	input#valider {
  		text-align: left;
  		background-color:#333;

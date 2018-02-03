@@ -1,12 +1,10 @@
 <?php
 	try {
-	$base = new PDO('mysql:host=localhost; dbname=G1LEAD', 'G1S1', 'bts1');
+	$base = new PDO('mysql:host=localhost;dbname=G1LEAD;charset=utf8','G1S7','bts1');
 	$base->exec('SET NAMES utf8');
-	$resultat = $base->query('SELECT * FROM organisation WHERE id=1');
-	}
-	catch (exception $e) {
-	    die('Erreur '.$e->getMessage());
 	}
 
-	echo $resultat
+	catch(exception $e) {
+		die("Erreur, les informations ne sont pas disponible".$e->getMessage());
+	}
 ?>

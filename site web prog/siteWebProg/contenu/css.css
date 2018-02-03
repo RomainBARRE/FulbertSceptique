@@ -78,6 +78,13 @@
 		font-size: 24px;
 	}
 
+	h6 {
+		color: #01DF01;
+		font-size: 15px;
+		width: 50%;
+		margin-left: 12%;
+	}
+
 	#link {
 		color: #088A08;
 		font-weight: bold;

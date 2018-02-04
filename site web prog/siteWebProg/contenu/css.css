@@ -83,7 +83,7 @@
 		color: #01DF01;
 		font-size: 15px;
 		width: 50%;
-		margin-left: 12%;
+		margin-left: 2%;
 	}
 
 	#link {
@@ -156,21 +156,61 @@
   		margin: 32px;
 	}
 
-	a#titreAnn {
+	a#titreAnn1 {
 	    text-decoration: none;
 	    color: #fff;
 		font-weight: bold;
   		font-size: 1.5em; 
 	}
 
-	#imgAnnG {
+	a#titreAnn2 {
+	    text-decoration: none;
+	    color: #fff;
+		font-weight: bold;
+  		font-size: 1.5em; 
+	}
+
+	a#titreAnn3 {
+	    text-decoration: none;
+	    color: #fff;
+		font-weight: bold;
+  		font-size: 1.5em; 
+	}
+
+	a#titreAnn4 {
+	    text-decoration: none;
+	    color: #fff;
+		font-weight: bold;
+  		font-size: 1.5em; 
+	}
+
+
+	#imgAnnG1 {
 		width: 20%;
 		float: left;
   		margin-right: 32px;
 	}
 
-	#imgAnnD {
+	#imgAnnG2 {
+		width: 20%;
+		float: left;
+  		margin-right: 32px;
+	}
+
+	#imgAnnD1 {
 		width: 20%;
 		float: right;
   		margin-left: 32px;
+	}
+
+	#imgAnnD2 {
+		width: 20%;
+		float: right;
+  		margin-left: 32px;
+	}
+
+/* Bas Page */
+
+	#titreCont {
+		text-align: center;
 	}

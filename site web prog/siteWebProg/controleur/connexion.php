@@ -13,7 +13,7 @@
 				?>
 			</header>
 				<?php
-					include('../vue/inscription.html')
+					include('../vue/connexion.html')
 				?>
 		</body>
 </html>

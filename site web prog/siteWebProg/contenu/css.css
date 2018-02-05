@@ -37,6 +37,7 @@
 	    padding: 14px 16px;
 	    text-decoration: none;
 	}
+
 	li a:hover {
 	    background-color: #111;
 	}
@@ -205,4 +206,26 @@
 
 	#titreCont {
 		text-align: center;
+	}
+
+/* Formulaire */
+	
+	#form {
+		text-align: center;
+		color: #01DF01;
+	}
+
+	#checkbox {
+		text-align: center;
+		color: #01DF01;
+	}
+
+	button {
+	border:none;
+	padding:16px 10 16px 10;
+	border-radius:18px;
+	background: #01DF01;
+	font:bold 32px Arial;
+	color:#fff;
+	margin-left: 45%;
 	}

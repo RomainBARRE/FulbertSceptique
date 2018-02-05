@@ -1,0 +1,30 @@
+<form method="post" action="traitement.php">
+    <p id="form">
+    	  <label for="pseudo">Votre pseudo :</label>
+        <input type="text" name="pseudonyme" id="pseudo" placeholder="Ex : xXVeganator28Xx" size="30" maxlength="10" />
+
+        <br /><br />
+
+        <label for="pass">Votre mot de passe :</label>
+        <input type="password" name="mdp" id="pass" />
+
+        <br /><br />
+
+        <label for="pass">Confirmer le mot de passe :</label>
+        <input type="password" name="Confmdp" id="Cpass" />
+
+        <br /><br />
+
+        <label for="pseudo">Adresse Mail :</label>
+        <input type="text" name="mail" id="email" placeholder="Ex : Vegan.lait@gmail.com" size="30" maxlength="10" />
+    </p>
+
+    <p id="checkbox">
+       Cochez lerégime que vous pratiquer :<br />
+       <input type="checkbox" name="Véganisme" id="Véganisme" /> <label for="Véganisme">Véganisme  </label>
+       <input type="checkbox" name="Végétalisme" id="Végétalisme" /> <label for="Végétalisme">Végétalisme  </label>
+       <input type="checkbox" name="Aucun" id="Aucun" /> <label for="Aucun">Aucun  </label>
+    </p>
+  		
+  	<button type="button">Valider</button>
+</form>

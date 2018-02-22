@@ -11,7 +11,6 @@
 				<?php 
 					include('vue/menuInd.html');
 					include('vue/banniere.html');
-					//include('vue/date.html');
 				?>
 			</header>
 				<?php 

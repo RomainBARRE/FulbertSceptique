@@ -179,7 +179,18 @@
 		font-weight: bold;
   		font-size: 1.5em; 
 	}
-
+	a#titreAnn5 {
+	    text-decoration: none;
+	    color: #fff;
+		font-weight: bold;
+  		font-size: 1.5em; 
+	}
+	a#titreAnn6 {
+	    text-decoration: none;
+	    color: #fff;
+		font-weight: bold;
+  		font-size: 1.5em; 
+	}
 
 	#imgAnnG1 {
 		width: 20%;
@@ -192,18 +203,39 @@
 		float: left;
   		margin-right: 32px;
 	}
+	#imgAnnG3 {
+		width: 20%;
+		float: left;
+  		margin-right: 32px;
+	}
 
 	#imgAnnD1 {
 		width: 20%;
 		float: right;
   		margin-left: 32px;
 	}
-
 	#imgAnnD2 {
 		width: 20%;
 		float: right;
   		margin-left: 32px;
 	}
+	#imgAnnD3 {
+		width: 20%;
+		float: right;
+  		margin-left: 32px;
+	}
+	#imgcent {
+    	display: block;
+    	margin-left: auto;
+    	margin-right: auto 
+	}
+	#imgcent1 {
+		width: 20%;
+    	display: block;
+    	margin-left: auto;
+    	margin-right: auto 
+	}
+
 
 /* Bas Page */
 
